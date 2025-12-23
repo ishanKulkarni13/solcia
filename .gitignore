@@ -1,6 +1,7 @@
 ### Dependencies
 node_modules/
-
+.history/
+.histor/
 ### Build output
 build/
 dist/
